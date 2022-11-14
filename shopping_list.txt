@@ -1,0 +1,5 @@
+Eggs 6
+Milk 1L
+Apples 6
+Cheese 250g
+Flour 2.5Kg
